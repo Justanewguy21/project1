@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "TrungTrang_2.4G";  // Replace with your WiFi name
-const char* password = "BEN@2020";     // Replace with your WiFi password
+const char* ssid = "YOUR WIFI";  // Replace with your WiFi name
+const char* password = "PASSWORD WIFI";     // Replace with your WiFi password
 
 WebServer server(80);  // Create a web server on port 80
 
